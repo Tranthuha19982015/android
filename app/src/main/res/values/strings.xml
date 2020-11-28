@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">THI LÊN LỚP</string>
+    <string name="play">BẮT ĐẦU</string>
+    <string name="currentlevel">CẤP ĐỘ HIỆN TẠI</string>
+    <string name="topranking">BẢNG XẾP HẠNG</string>
+    <string name="howtoplay">HƯỚNG DẪN CÁCH CHƠI</string>
+    <string name="setting">CÀI ĐẶT</string>
+    <string name="exit">THOÁT</string>
+    <string name="music">Âm nhạc</string>
+    <string name="tutorials">HƯỚNG DẪN</string>
+</resources>
